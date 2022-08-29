@@ -1,5 +1,3 @@
-# Global_AI_Hub-Projects
-
 # Global AI Hub Summer Camp Projects
 
 This repository contains Insurance Charge Prediction with Regression Models and CatDog dataset classification with CNN Projects.
